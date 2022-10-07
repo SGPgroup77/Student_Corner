@@ -1,0 +1,45 @@
+main{
+    text-align: center;
+}
+*{
+    color: black;
+    /* background-color: #334159; */
+    box-sizing: border-box;
+    /* color: whitesmoke; */
+}
+
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header h1{
+    text-align: center;
+    color: orange;
+    /* background-color: orange */
+    /* background-color: rgba(22, 34, 57, 0.95); */
+    height: 80px;
+    position: r;
+    z-index: 12;
+    width: 100%;
+    top: 0;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px;
+}
+
+section{
+    text-align: center;
+    color: orange;
+    /* background-color: orange */
+    /* background-color: rgba(22, 34, 57, 0.95); */
+    height: 100px;
+    position: relative;
+    z-index: 12;
+    width: 100%;
+    top: 50%;
+    /* left: 50%; */
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+}
