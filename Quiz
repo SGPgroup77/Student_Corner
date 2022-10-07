@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QUIZ</title>
+    <link rel="stylesheet" href="Quiz.css">
+</head>
+<body style="background: url(QUIZ.jpg);
+                        background-size: cover;
+                        background-repeat: no-repeat;">
+    <header>
+        <h1>QUIZ</h1>
+    </header>
+    <section>
+        <a href="https://sp88iqa06vh.typeform.com/to/jNQcLo5v"><img src="Typeform.png"class="img" alt=""></a>
+        <a href="https://www.menti.com/al4mznm8gi5s"><img src="Mentimeter_logo.png"class="img" alt=""></a>
+        <a href="https://ahaslides.com/YT42E"><img src="AhaSlides.png"class="img" alt=""></a>
+    </section>
+    
+</body>
+</html>
