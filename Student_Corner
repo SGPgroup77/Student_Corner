@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Academics</title>
+    <link rel="stylesheet" href="Academics.css">
+</head>
+<body style="background: url(Academics2.jpg);
+                          background-size: cover;
+                          background-repeat: no-repeat;">
+    <header>
+        <h1>Academics</h1>
+    </header>
+    <nav>
+      <a href="Academic_Calendar.html" target="_blank" rel="noopener noreferrer">Academic Calendar</a>
+      <a href="Time_Table.html" target="_blank" rel="noopener noreferrer">Time Table</a>
+      <a href="Upcoming_Events.html" target="_blank" rel="noopener noreferrer">Upcoming Events</a>
+      <a href="Quiz.html" target="_blank" rel="noopener noreferrer">QUIZ PLATFORM</a>
+    </nav>
+    <!-- <div class="month">
+  <ul>
+    <li class="prev">&#10094;</li>
+    <li class="next">&#10095;</li>
+    <li>August<br><span style="font-size:18px">2021</span></li>
+  </ul> -->
+<!-- </div> -->
+
+</body>
+</html>
