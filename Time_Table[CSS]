@@ -1,0 +1,43 @@
+main{
+    text-align: center;
+}
+*{
+    color: black;
+    /* background-color: #334159; */
+    box-sizing: border-box;
+    /* color: whitesmoke; */
+}
+
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header h1{
+    text-align: center;
+    color: orange;
+    /* background-color: orange */
+    background-color: rgba(39, 60, 99, 0.95);
+    height: 80px;
+    /* position: fixed; */
+    z-index: 12;
+    width: 100%;
+    top: 0;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1px;
+}
+
+img{
+    /* padding: 1%; */
+    /* position: fixed; */
+    /* width: 15%;
+    height: 15%; */
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  /* width: 50%; */
+  /* transition: width 2s, height 2s, transform 2s */
+}
+
