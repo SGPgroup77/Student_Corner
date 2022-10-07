@@ -1,0 +1,68 @@
+/* @import url(fontawesome.css); */
+
+*{
+    color: black;
+    /* background-color: #334159; */
+    box-sizing: border-box;
+    /* color: whitesmoke; */
+}
+
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    /* width: auto;
+    height: auto; */
+}
+
+header h1{
+    text-align: left;
+    color: orange;
+    /* background-color: orange */
+    background-color: rgba(39, 60, 99, 0.95);
+    height: 100px;
+    /* position: relative; */
+    z-index: 12;
+    width: 100%;
+    top: 0;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 1px;
+    ;
+}
+
+nav{
+    /* text-decoration: none; */
+    /* width: 100%; */
+    /* position: relative; */
+    /* margin: 0;
+    padding: 0; */
+    /* border-top: 1px solid rgba(250, 250, 250, 0.25); */
+    background-color: rgba(39, 60, 99, 0.95);
+    /* color: white */
+    padding: 25px;
+    overflow: hidden;
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav a{
+    text-decoration: none;
+    color: #fff;
+    background-color: rgba(39, 60, 99, 0.95);
+    /* text-align: center; */
+    padding: 20px;
+    overflow: hidden;
+    font-size: large;
+    position: relative;
+}
+
+nav a:hover{
+    color: #FC3;
+    text-decoration: none;
+}
+
+main{
+    text-align: center;
+}
+
+
